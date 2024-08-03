@@ -31,7 +31,7 @@ void loop() {
 ### Circuit Diagram
 
 ![image](IMG_5406.jpg)
-
+[video](582B8283-80AD-4E03-98CE-8BB0604BBF00.gif)
 
 ## Tinkercad Simulation
 
