@@ -1,4 +1,4 @@
-# DC Motor Control Project
+# HBridge with DC Motor Control Project
 
 ## Description
 This project demonstrates how to control two DC motors using an L293D H-bridge and an Arduino. It includes both a real-world implementation and a Tinkercad simulation.
@@ -10,7 +10,6 @@ This project demonstrates how to control two DC motors using an L293D H-bridge a
 - L293D H-bridge
 - 2 DC Motors
 - 9V Battery
-- Breadboard
 - Connecting Wires
 
 ### Arduino Code
@@ -30,4 +29,6 @@ void loop() {
 }
 ```
 ### Circuit Diagram
+
+![image](IMG_5406.jpg)
 
